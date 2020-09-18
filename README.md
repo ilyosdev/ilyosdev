@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hello my gorgeous friend 👋
 
-<!--
-**ilyosdev/ilyosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm a 23y.o. software engineer from Uzbekistan, specialized in web development, as you gues I claim myself as a full-stack developer.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on start-ups 
+- 🌱 Currently learning TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I'm comfortable working with:
+
+-   PHP - back-end frontend restapi (Yii,Laravel)
+-   NodeJS - back-end logic (Express, Koa, Knex)
+-   ReactNative - cross platform native mobile apps
+-   ReactJS - SPA, PWA web apps
+-   DBMS - relational databases (MySQL, MsSQL, SQLite)
+
+#### Here is my portfolio:
+
+- dev.to: [ilyos_dev](https://ilyos.dev)
+
+#### Contacts:
+
+- E-mail: [mail@ilyos.dev](mailto://mail@ilyos.dev)
+- Phone: [+998(90)-559-7797](tel://+998905597797)
+- Instagram: [@ilyosdev](https://www.instagram.com/ilyosdev)
+- Telegram: [@ilyosdev](https://t.me/ilyosdev)

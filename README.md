@@ -7,7 +7,7 @@
 
 #### I'm comfortable working with:
 
--   PHP - back-end frontend restapi (Yii,Laravel)
+-   PHP - back-end frontend restapi (Yii,Laravel, Slim 4)
 -   NodeJS - back-end logic (Express, Koa, Knex)
 -   ReactNative - cross platform native mobile apps
 -   ReactJS - SPA, PWA web apps

@@ -20,7 +20,7 @@
 
 #### Contacts:
 
-- E-mail: [mail@ilyos.dev](mailto://ilyosdev@gmail.com)
+- E-mail: [Ilyos](mailto://ilyosdev@gmail.com)
 - Phone: [+998(90)-559-7797](tel://+998905597797)
 - Instagram: [@ilyosdev](https://www.instagram.com/ilyosdev)
 - Telegram: [@ilyosdev](https://t.me/ilyosdev)

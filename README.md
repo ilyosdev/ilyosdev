@@ -11,7 +11,7 @@
 -   ReactNative - cross platform native mobile apps
 -   ReactJS - SPA, PWA web apps
 -   DBMS - relational databases (MySQL, MsSQL, SQLite)
-** One year of a solid AWS experience.
+-   One year of a solid AWS experience.
 #### Here is my portfolio:
 
 - my company: [appx group](https://appx.uz)

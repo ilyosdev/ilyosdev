@@ -15,7 +15,6 @@
 
 #### Here is my portfolio:
 
-- presonal website: [ilyos_dev](https://ilyos.dev)
 - my company: [appx group](https://appx.uz)
 
 #### Contacts:

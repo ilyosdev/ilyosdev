@@ -1,6 +1,6 @@
 ### Hello my gorgeous friend 👋
 
- I'm a 23y.o. software engineer from Uzbekistan, specialized in web development, as you gues I claim myself as a full-stack developer.
+ I'm a 25y.o. software engineer from Uzbekistan, specialized in web development, as you gues I claim myself as a full-stack developer.
 
 - 🔭 Currently working on start-ups 
 

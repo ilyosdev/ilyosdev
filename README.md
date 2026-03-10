@@ -1,6 +1,6 @@
 ### Hello my gorgeous friend 👋
 
- I'm a 25y.o. software engineer from Uzbekistan, specialized in web development, as you gues I claim myself as a full-stack developer.
+ I'm a 29y.o. software engineer from Uzbekistan, specialized in web development, as you gues I claim myself as a full-stack developer.
 
 - 🔭 Currently working on start-ups 
 
@@ -19,7 +19,4 @@
 #### Contacts:
 
 - E-mail: [Ilyos](mailto://ilyosdev@gmail.com)
-- Phone: [+998(90)-559-7797](tel://+998905597797)
-- Instagram: [@ilyosdev](https://www.instagram.com/ilyosdev)
-- Telegram: [@ilyosdev](https://t.me/ilyosdev)
 
